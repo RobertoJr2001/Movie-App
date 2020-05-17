@@ -26,7 +26,6 @@ function App() {
     };
   }
 
-
   const handleInput = (e) => {
     let s = e.target.value;
 
